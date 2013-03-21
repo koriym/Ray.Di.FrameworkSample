@@ -1,0 +1,17 @@
+{
+    "name": "ray/quick-tour",
+    "description": "ray/di quick tour",
+    "authors": [
+        {
+            "name": "Akihito Koriyama",
+            "email": "akihito.koriyama@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Ray\\QuickTour": "src/" }
+    },
+    "minimum-stability": "beta",
+    "require": {
+        "ray/di": "1.0.*"
+    }
+}
