@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Ray\\QuickTour": "src/" }
+        "psr-0": { "Ray\\Sample": "src/" }
     },
     "minimum-stability": "beta",
     "require": {
